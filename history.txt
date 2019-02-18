@@ -1,0 +1,4 @@
+    1  alias l= "ls -alt"
+    2  nano ~.bash_profile
+    3  l
+    4  history > history.txt
